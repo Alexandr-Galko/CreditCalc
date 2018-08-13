@@ -1,0 +1,12 @@
+{
+    "startDate":"07 2018",
+    "currentDate": "8 2018",
+    "duration": 1,
+    "debt":2000,
+    "planedPay":0,
+    "precents": [
+        {"6 2018": 16}
+    ],
+    "pays": [    ]
+}
+
