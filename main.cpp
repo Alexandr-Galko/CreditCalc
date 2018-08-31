@@ -16,7 +16,7 @@ int main(int argc, char *argv[])
 {
     if (argc < 2)
     {
-        cerr<< "enter jseo file";
+        cerr<< "enter json file";
         return 1;
     }
     string filename = argv[1];
